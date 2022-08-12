@@ -30,7 +30,7 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size:cover;
-    background-image: linear-gradient(#fc083d66,rgba(160, 123, 153, 0.4)),url(/images.in/background.jpg);
+    background-image: linear-gradient(#fc083d66,rgba(160, 123, 153, 0.4)),url(./images.in/background.jpg);
  }
  .hero-word{
     position: relative;
@@ -255,7 +255,7 @@ font-size: 10px;
   /*service.html*/
 
   .hero-service {
-    background-image: linear-gradient(#fc083d66,rgba(160, 123, 153, 0.4)),url(/images.in/ourservice.html.jpg);
+    background-image: linear-gradient(#fc083d66,rgba(160, 123, 153, 0.4)),url(./images.in/ourservice.html.jpg);
     height: 50vh;
   }
 
@@ -268,19 +268,19 @@ font-size: 10px;
 
   /* ourstore.html*/
   .hero-team {
-    background-image: linear-gradient(#fc083d66,rgba(160, 123, 153, 0.4)),url(/images.in/ourteam.html.jpg);
+    background-image: linear-gradient(#fc083d66,rgba(160, 123, 153, 0.4)),url(./images.in/ourteam.html.jpg);
     height: 65vh;
     flex-basis: 33%;
   }
  /* ourstore.html*/
 .hero-aboutus{
-  background-image: linear-gradient(#fc083d66,rgba(160, 123, 153, 0.4)),url(/images.in/aboutus.html.jpg);
+  background-image: linear-gradient(#fc083d66,rgba(160, 123, 153, 0.4)),url(./images.in/aboutus.html.jpg);
   height: 65vh;
 }
 
 /* ourstore.html*/
 .hero-contactus{
-  background-image: linear-gradient(#fc083d66,rgba(160, 123, 153, 0.4)),url(/images.in/contactus.html.jpg);
+  background-image: linear-gradient(#fc083d66,rgba(160, 123, 153, 0.4)),url(./images.in/contactus.html.jpg);
   height: 65vh;
 }
 
