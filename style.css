@@ -262,7 +262,7 @@ font-size: 10px;
   /* ourstore.html*/
 
 .hero-store {
-    background-image: linear-gradient(#fc083d66,rgba(160, 123, 153, 0.4)),url(/images.in/ourstore.html.jpg);
+    background-image: linear-gradient(#fc083d66,rgba(160, 123, 153, 0.4)),url(./images.in/ourstore.html.jpg);
     height: 50vh;
   }
 
